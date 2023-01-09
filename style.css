@@ -1565,7 +1565,7 @@ section.hero {
     padding-top: 135px;
     padding-bottom: 140px;
     color: #fff;
-    background: #2f313a url(/site_images/skyline.svg);
+    background: #2f313a url(PlaneRadar.github.io/site_images/);
     background-size: 100%;
     background-position: bottom;
     background-repeat: repeat-x;
@@ -1574,7 +1574,7 @@ section.hero {
 section.hero.pricing {
     padding-top: 100px;
     height: 500px;
-    background: #2f313a url(/site_images/skyline.svg);
+    background: #2f313a url(PlaneRadar.github.io/site_images/);
     background-size: 210%;
     background-position: bottom;
     background-repeat: repeat-x;
