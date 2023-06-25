@@ -2965,7 +2965,7 @@ section.faq .container .inline_right {
 section.hero.subpage {
     padding: 95px 0 70px;
     margin-bottom: 0;
-    background: #2f313a url(../site_images/skyline.svg);
+    background: #2f313a url(/site_images/skyline.svg);
     background-size: 100%;
     background-position: bottom;
     background-repeat: repeat-x;
@@ -2979,9 +2979,9 @@ section.hero.documentation {
     padding: 85px 0 30px;
     color: #fff;
     background-size: contain;
-    background-repeat-x: repeat;
+    background-repeat: repeat;
     margin-bottom: 0;
-    background: #2f313a url(../site_images/skyline.svg);
+    background: #2f313a url(/site_images/skyline.svg);
 }
 
 section.hero.documentation h2 {
@@ -3074,7 +3074,7 @@ section.specs_below_pricing {
 }
 
 section.specs_below_pricing .specs {
-    background: #4a4d5a url(../site_images/skyline_fade.svg);
+    background: #4a4d5a url(/site_images/skyline_fade.svg);
     background-size: 100%;
     background-position: bottom;
     background-repeat: repeat-x;
@@ -3229,7 +3229,7 @@ section .specs {
     z-index: 1;
     padding: 38px 0 36px 0;
     margin-top: 35px;
-    background: #2f313a url(../site_images/skyline.svg);
+    background: #2f313a url(/site_images/skyline.svg);
     background-size: 100%;
     background-position: bottom;
     background-repeat: repeat-x;
@@ -3778,7 +3778,7 @@ section.preapp {
     padding-bottom: 60px;
     color: #fff;
     text-align: center;
-    background: #2f313a url(../site_images/skyline.svg);
+    background: #2f313a url(/site_images/skyline.svg);
     background-size: 100%;
     background-position: bottom;
     background-repeat: repeat-x;
@@ -5865,7 +5865,7 @@ span.required {
 
 /* thankyou pages */
 section.breadcrumbs {
-    background: #2f313a url(../site_images/skyline.svg);
+    background: #2f313a url(/site_images/skyline.svg);
     color: #fff;
     margin-top: -30px;
     margin-bottom: 30px;
